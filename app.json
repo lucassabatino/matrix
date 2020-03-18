@@ -7,7 +7,7 @@
   "env": {
     "GOOGLE_CREDENTIAL": {
       "description": "Google Application Credential",
-      "value": "xxxxxxx.apps.googleusercontent.com"
+      "value": "tO1HPsl2mHeRIgLDt7U0dqja"
     },
     "ENFORCE_SSL": {
       "description": "If you running in HTTPS this variable forces redirect to HTTPS when user access with HTTP",
