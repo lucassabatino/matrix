@@ -21,7 +21,7 @@ const createRoomFileSync = () => {
 
   roomsData[0] = {
     id: uuid(),
-    name: "Sala Faria Lima",
+    name: "Avenida Brigadeiro Faria Lima",
     disableMeeting: true,
   };
 
