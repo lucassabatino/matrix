@@ -47,7 +47,7 @@
     "sinon": "^7.4.2",
     "webpack": "^4.39.3",
     "webpack-cleanup-plugin": "^0.5.1",
-    "webpack-cli": "^3.3.8",
+    "webpack-cli": "^3.3.12",
     "webpack-manifest-plugin": "^2.0.4",
     "webpack-merge": "^4.2.2"
   }
